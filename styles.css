@@ -1,0 +1,29 @@
+body{
+    color:black;
+    background-color: #B6E2D3;
+    font-size: 100
+
+}
+.myTitle{
+        border-style: outset;
+        background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetwallpapers.com%2Fwallpaper%2Ffull%2Ff%2Fb%2Fd%2F1072810-widescreen-cream-colored-wallpaper-1920x1080-for-htc.jpg&f=1&nofb=1");
+        background-repeat: repeat-x;
+
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.button1{
+    background-color: #D8A7B1
+}
+.button2{
+    background-color: #D8A7B1
+}
